@@ -7,6 +7,7 @@ Just try out the git thing and enjoy gitting!
 Here is a cute dolphin:
 
 ![A cute dolphin](cute-dolphin.jpeg)
+![An Orca](Orca.png)
 
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
